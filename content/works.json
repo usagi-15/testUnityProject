@@ -1,0 +1,68 @@
+[
+  {
+    "id": "morning-window",
+    "title": "朝の窓辺",
+    "artist": "サンプル作家 A",
+    "year": 2025,
+    "category": "絵画",
+    "medium": "油彩、キャンバス",
+    "size": "F20（727 × 606 mm）",
+    "color": "#f2b866",
+    "description": "冬の朝、窓から差し込む斜めの光を描いた作品。カーテン越しに広がるやわらかな明るさを、薄塗りの層を重ねて表現しています。"
+  },
+  {
+    "id": "station-dusk",
+    "title": "夕暮れの駅",
+    "artist": "サンプル作家 B",
+    "year": 2024,
+    "category": "写真",
+    "medium": "インクジェットプリント",
+    "size": "594 × 841 mm",
+    "color": "#d9735b",
+    "description": "帰宅ラッシュ前の静かな駅のホーム。沈みかけた太陽がレールに反射する一瞬を長時間露光で捉えました。"
+  },
+  {
+    "id": "glass-garden",
+    "title": "硝子の庭",
+    "artist": "サンプル作家 C",
+    "year": 2026,
+    "category": "立体",
+    "medium": "ガラス、LED、木",
+    "size": "H 1200 × W 900 × D 900 mm",
+    "color": "#6bb6c9",
+    "description": "大小のガラス片を植物のように配置したインスタレーション。時間とともに変化する照明が、床に色の影を落とします。"
+  },
+  {
+    "id": "afterimage",
+    "title": "残像",
+    "artist": "サンプル作家 D",
+    "year": 2025,
+    "category": "映像",
+    "medium": "シングルチャンネル映像（4分32秒、ループ）",
+    "size": "サイズ可変",
+    "color": "#7d6bc9",
+    "description": "街灯の光の軌跡だけを抽出して再構成した映像作品。見慣れた夜道が、抽象的な光のリズムへと変わっていきます。"
+  },
+  {
+    "id": "summer-letter",
+    "title": "夏の手紙",
+    "artist": "サンプル作家 A",
+    "year": 2026,
+    "category": "絵画",
+    "medium": "水彩、紙",
+    "size": "380 × 455 mm",
+    "color": "#8cc97a",
+    "description": "木漏れ日の下で読んだ手紙の記憶をもとに描いた連作の一点。にじみを生かした淡い色彩が特徴です。"
+  },
+  {
+    "id": "lighthouse",
+    "title": "灯台のある風景",
+    "artist": "サンプル作家 B",
+    "year": 2023,
+    "category": "写真",
+    "medium": "ゼラチンシルバープリント",
+    "size": "406 × 508 mm",
+    "color": "#5b7fd9",
+    "description": "霧の夜に回り続ける灯台の光をモノクロームで撮影。闇の中で規則正しく現れる光が、時間の流れを感じさせます。"
+  }
+]
